@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated and skilled Civil Engineer specialized in coastal, ports, and marine structures, with a Master’s degree from Tarbiat Modares University. Proven expertise in reliability-based design optimization, remote sensing, and deep learning applications in coastal engineering. Recognized for academic excellence with multiple fellowships and a passion for innovative marine engineering solutions. Seeking to leverage my research and project management skills to contribute to sustainable and efficient marine infrastructure development.
+Dedicated and skilled Civil Engineer specialized in coastal, ports, and marine structures, with a Master’s degree from Tarbiat Modares University. Proven expertise in reliability-based design optimization, Risk and Resilience, and deep learning applications in coastal engineering. Recognized for academic excellence with multiple fellowships and a passion for innovative marine engineering solutions. Seeking to leverage my research and project management skills to contribute to sustainable and efficient marine infrastructure development.
 
 
 ## 🌐 Socials:
