@@ -17,7 +17,6 @@ Dedicated and skilled Civil Engineer specialized in coastal, ports, and marine s
 
 ### ✍️ Random Dev Quote
 “The secret to success is effort, effort, and effort.”
-                                            -Pouya Zarbipour Lakposhteh
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pouyazarbipour&limit=5&theme=default&combine_all_yearly_contributions=true)
