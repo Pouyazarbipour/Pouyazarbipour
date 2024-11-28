@@ -19,7 +19,7 @@ Dedicated and skilled Civil Engineer specialized in coastal, ports, and marine s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&message=The%20secret%20to%20success%20is%20effort,%20effort,%20and%20effort.%20-%20Pouya%20Zarbipour%20Lakposhteh)
+![](https://github-contributor-stats.vercel.app/api?username=pouyazarbipour&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pouyazarbipour&icon=6&color=9)](https://visitcount.itsvg.in)
