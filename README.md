@@ -4,6 +4,7 @@
 [![Citations](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?user=V5aIzssAAAAJ&hl=en)
 <img src="https://img.shields.io/badge/Focus-Reliability Analysis-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Risk and Resilience-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-M and D learning-brightgreen" />
 
 # 💫 About Me:
 Dedicated and skilled Civil Engineer specialized in coastal, ports, and marine structures, with a Master’s degree from Tarbiat Modares University. Proven expertise in reliability-based design optimization, Risk and Resilience, and deep learning applications in coastal and marine structures engineering. Recognized for academic excellence with multiple fellowships and a passion for innovative marine engineering solutions. Seeking to leverage my research and project management skills to contribute to sustainable and efficient marine infrastructure development.
