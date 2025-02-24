@@ -37,7 +37,7 @@ Research Assistant at [Tarbiat Modares University](https://modares.ac.ir/en), fo
 <div align="center">
    <h2>Languages:</h2> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,matlab,tensorflow,skitlearn,git" />
+    <img src="https://skillicons.dev/icons?i=python,matlab,tensorflow,git" />
   </a>
   <br>
   <h2>Tools:</h2>
